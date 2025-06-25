@@ -152,7 +152,7 @@ A similar procedure is followed for the ConflictQA dataset used by [Xi et al.](h
 
 ## Get Model Predictions
 
-We collect the predictions of the Pythia and Llama models on CounterFact, ConflictQA, and DRUID. CounterFact and ConflictQA have been recast to a claim-evidence format before this.
+We collect the predictions of the Pythia and Llama models on CounterFact, ConflictQA, and DRUID. CounterFact and ConflictQA have been recast to a claim-evidence format before this. The method for collecting the model predictions is described below. We also provide the collected model predictions in [our data checkpoint](https://huggingface.co/datasets/copenlu/reality-check-on-context-utilisation).
 
 ### Set up environment
 
@@ -196,7 +196,7 @@ OPTIMAL_PROMPTS = {"Pythia 6.9B":
 
 Context characteristics are detected in 4 steps, after which they are saved to a dataset, ready for plotting. The virtual environment used for collecting model predictions can be used here as well. We detect context characteristics for CounterFact, ConflictQA and DRUID.
 
-We have also uploaded the corresponding data checkpoint to Hugging Face, such that one can skip the detection steps described here and immediately load the dataset.
+We have also uploaded the corresponding data checkpoint to Hugging Face, such that one can skip the detection steps described here and immediately load the dataset for plotting in [Create plots](#create-plots).
 
 ### 1. Automated property detection
 
@@ -251,7 +251,6 @@ pip install -r requirements_plots.txt
 First, prepare the data for plotting using `src/prepare_data.ipynb`. This notebook essentially aggregates and formats all of the data collected in the previous steps and adds necessary metrics, etc. You can also skip this step and immediately load [our data checkpoint](https://huggingface.co/datasets/copenlu/reality-check-on-context-utilisation) for the plotting. 
 
 Then, use `src/get_plots.ipynb` to get the same plots as seen in our [paper](https://arxiv.org/abs/2412.17031). The notebook has support for loading a data checkpoint directly from Hugging Face.
->>>>>>> Add code
 
 ## Citation
 
