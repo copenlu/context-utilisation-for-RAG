@@ -1,0 +1,6 @@
+{
+    "token": <prolific-completion-token>, # to indicate completion to Prolific API
+    "study_id": <prolific-study-id>,
+    "max_concurrent_sessions": 40,
+    "workload_checker_period": 300
+}

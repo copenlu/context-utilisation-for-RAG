@@ -1,0 +1,15 @@
+cohere==5.8.0
+datasets==2.21.0
+htmldate==1.8.1
+jusText==3.0.1
+matplotlib==3.9.1
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+seaborn==0.13.2
+sentence-splitter==1.4
+spacy==3.7.6
+tqdm==4.66.5
+textstat==0.7.4

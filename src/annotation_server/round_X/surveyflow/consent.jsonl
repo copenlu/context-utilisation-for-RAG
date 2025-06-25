@@ -1,0 +1,4 @@
+{"id": "1","text": "<h1>Consent</h1>","schema": "pure_display","choices": ["<p> Please indicate your consent towards participating in this study. If you do not consent and wish to drop out of the study, please return this submission on Prolific by selecting the 'stop without completing' button' and close this page. </p>"]}
+{"id":"2","text":"I have read and understood the information about the study.","schema": "radio", "choices": ["Yes", "No"], "label_requirement": {"right_label":["Yes"]}}
+{"id":"3","text":"I have read and understood the study instructions.","schema": "radio", "choices": ["Yes", "No"], "label_requirement": {"right_label":["Yes"]}}
+{"id":"4","text":"I want to participate in this research and continue with the study.","schema": "radio", "choices": ["Yes", "No"], "label_requirement": {"right_label":["Yes"]}}

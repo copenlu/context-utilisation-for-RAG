@@ -1,0 +1,1 @@
+{"id":"attention_test","text":"This sample is very simple, simply select the <em>stance</em> '[test_question_choice]' for this question and any option for <em>relevant</em>. This is an attention check.", "choices": ["supports", "insufficient-supports", "insufficient-neutral", "insufficient-contradictory", "insufficient-refutes", "refutes", "not_applicable"]}

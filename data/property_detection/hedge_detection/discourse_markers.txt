@@ -1,0 +1,364 @@
+#Contrast with what came before
+#Making a contrast between two separate things, people, ideas, etc.
+however
+on the one hand
+on the other hand
+rather
+in contrast
+nonetheless
+though
+all the same
+anyway
+as a matter of fact
+at the same time
+perhaps
+
+#Making an unexpected contrast
+although
+even though
+despite the fact
+in spite of the fact that
+regardless of the fact that
+
+#Logical consequence
+as a result
+in that case
+consequently
+therefore
+hence
+thus
+or this reason
+because of this
+
+#Clarifying and re-stating
+in other words
+in a sense
+i mean
+
+#Dismissal of previous discourse
+anyhow
+at any rate
+
+#Showing the attitude of what you are saying
+i think
+i believe
+i feel
+i reckon
+i guess
+i suppose
+i presume
+it is my firm belief
+in my view
+in my opinion
+to my mind
+in my experience
+in my understanding
+my thinking
+my understanding
+in our opinion
+in our view
+in our judgement
+in our perspective
+in my judgement
+in my perspective
+from my perspective
+we think
+we guess
+my guess
+we believe
+i hope
+we hope
+we feel
+we suppose
+i suspect
+we suspect
+i postulate
+we postulate
+i speculate
+we speculate
+
+#Preparing for something unwelcome
+i am afraid
+i'm afraid
+sorry , but
+frankly
+honestly
+
+#Conversation management
+actually
+anyway
+i would say
+so well
+you know
+you see
+sort of
+kind of
+so to speak
+more or less
+not really
+no real instance
+difficult question
+difficult to answer
+
+#To start and to end conversations
+well
+
+#To change topic or return to the topic
+by the way
+well , anyway
+
+#To repeat what I said before
+like i said
+as i say
+
+#Saying something in another way
+the thing is
+what i mean is
+
+#Indicating a difference of opinion
+yes , but
+nevertheless
+
+#Evasion strategies
+i do not want to
+i don't want to
+i am not going to
+i ain't going to
+i am not trying to
+i ain't trying to
+i will not say
+i won't say
+i will not mention
+i won't mention
+i do not know
+i don't know
+i really do not know
+i really don't know
+i do not really understand
+i don't really understand
+i can not find the word
+i can't find the word
+
+#Propositional (uncertainty into the propositional content)
+a bit
+a bunch
+a couple
+a few
+a little
+a whole bunch
+allegedly
+among others
+and all that
+and so forth
+and so on
+and suchlike
+at least
+for the most part
+in a way
+in part
+in some ways
+kinda
+partial
+possible
+pretty
+pretty much
+rough
+seldom
+something or other
+to a certain
+extent
+to some extent
+70% chance
+30% chance
+50% chance
+
+#Miscellaneous
+impression
+look like
+looks like
+sound like
+sounds like
+tend
+no guarantee
+pretty good chance
+high probability
+very high probability
+raises the possibility
+reasonable chance
+highly unlikely
+little support
+indicating
+somehow
+indicate
+very improbable
+seems likely
+somewhat likely
+not very likely
+very rarely
+indicates that
+hopefully
+appear to
+appears to
+appeared to
+is not known
+isn't known
+was not known
+wasn't known
+low chance
+remains to be investigated
+cannot exclude
+can't exclude
+can not exclude
+cannot be excluded
+can't be excluded
+can not be excluded
+rather probably
+good chance
+quite probable
+nearly certain
+very low chance
+tends to
+suggestive
+unable to exclude
+somewhat unlikely
+lends strong support
+fair chance
+implicating
+yet to be understood
+non-negligible chance
+may well occur
+doubtful
+not evident
+not unlikely
+very possible
+very possibly
+highly supportive
+slight possibility
+cannot exclude the possibility
+can not exclude the possibility
+can't exclude the possibility
+slight evidence
+unable to rule out
+suggesting
+cannot rule out
+can not rule out
+can't rule out
+could be
+very low probability
+almost impossible
+not probable
+extremely unlikely
+presumptive
+there is a feeling that
+implicates
+thirty percent chance
+some possibility
+slight odds
+slight chance
+may represent
+fairly unlikely
+if not
+high chance
+no clear evidence
+moderate chance
+may be associated
+according to chance
+raises the probability
+significant chance
+must be considered
+small doubt
+not very probable
+putatively
+inferred
+implying
+not likely
+somewhat doubtful
+not quite even
+rather improbable
+slim chance
+fifty percent chance
+negligible chance
+best bet
+could reasonably be
+not fully understood
+fighting chance
+some chance
+little evidence
+plausibly
+chances are
+plausible
+very probable
+very high chance
+small hope
+very probably
+small chances
+compelling evidence
+prone to
+results support
+close to certain
+little chance
+presumable
+some evidence
+great chances
+looks as
+almost certain
+highly likely
+certain extent
+suggestive of
+rather doubtful
+no support for
+preferentially
+potentially
+assumedly
+most likely
+some doubt
+must be left open
+real possibility
+no indication
+highly suggestive
+probably not
+raise the hypothesis
+might represent
+chance of
+poor chance
+not much chance
+quite possible
+very likely
+very good chance
+indication
+barely possible
+highly suspicious
+very unlikely
+fairly likely
+small probability
+moderate probability
+most possibly
+not certain
+some difficulty
+there is a chance
+chances are not great
+some indication
+hypothetically
+hypothetical
+conceivable
+faintly possible
+not clear
+moderate evidence
+great chance
+very low percent
+certain hope
+reasonable hope
+remote possibility
+little likelihood
+quite unlikely
+low probability
+small possibility
+small likelihood
+very poor chance
+small chance
+no evidence
+inconclusive
+certain amount
+accordingly
+even if
+according to
